@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Sheydacar Turismo
 
-Template Name: Green
-Template URL: https://bootstrapmade.com/green-free-one-page-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Name: Sheydacar
+URL: sheydacar.com.br
+Author: Antonio Henriques 
